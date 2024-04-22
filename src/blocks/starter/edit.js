@@ -34,10 +34,11 @@ import './editor.scss';
 export default function Edit() {
 	return (
 		<Fragment>
+
 			<p {...useBlockProps()}>
 				{__(
 					'© All rights reserved',
-					'gutenberg-block-boilerplate'
+					'block-development-starter'
 				)}
 			</p>
 

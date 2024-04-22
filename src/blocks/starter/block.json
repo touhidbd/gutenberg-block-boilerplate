@@ -4,7 +4,7 @@
 	"name": "create-block/gutenberg-block-boilerplate",
 	"version": "0.1.0",
 	"title": "Block Development Starter",
-	"category": "widgets",
+	"category": "gbb_custom_blocks",
 	"description": "Example block scaffolded with Create Block tool.",
 	"example": {},
 	"supports": {

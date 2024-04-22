@@ -35,8 +35,6 @@ To incorporate an additional block into your plugin, you need to take the follow
 
 -   **Step 2:** Maintain your block folder's contents with all required blocks. 
 
--   **Step-3:** Import the **index.js** file for your block into the primary **index.js** file. The file is located in **src/index.js**. The file for the mock block has already been loaded there. View the illustration. This is how it should appear: **import './blocks/test/index';**
-
 
 **NOTE**: \*Using your own prefix is strongly advised. **gutenberg-block-boilerplate** and **GUTENBERG-BLOCK-BOILERPLATE** were the prefixes used in the case of boilerplate.
 
