@@ -239,7 +239,7 @@ module.exports = window["wp"]["i18n"];
   \*************************************/
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"$schema":"https://schemas.wp.org/trunk/block.json","apiVersion":3,"name":"create-block/hello-block","version":"0.1.0","title":"Hello Block","icon":"admin-appearance","category":"gbb_custom_blocks","description":"Example block scaffolded with Create Block tool.","example":{},"supports":{"html":false},"textdomain":"hello-block","editorScript":"file:./index.js","editorStyle":"file:./index.css","style":"file:./style-index.css","viewScript":"file:./view.js"}');
+module.exports = /*#__PURE__*/JSON.parse('{"$schema":"https://schemas.wp.org/trunk/block.json","apiVersion":3,"name":"gutenberg-block-boilerplate/hello-block","version":"0.1.0","title":"Hello Block","icon":"admin-appearance","category":"gbb_custom_blocks","description":"Example block scaffolded with Create Block tool.","example":{},"supports":{"html":false},"textdomain":"hello-block","editorScript":"file:./index.js","editorStyle":"file:./index.css","style":"file:./style-index.css","viewScript":"file:./view.js"}');
 
 /***/ })
 
