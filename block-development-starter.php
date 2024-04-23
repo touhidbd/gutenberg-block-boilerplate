@@ -62,4 +62,4 @@ function gutenberg_block_boilerplate_custom_category( $categories ) {
 
     return $categories;
 }
-add_filter( 'block_categories', 'gutenberg_block_boilerplate_custom_category' );
+add_filter( 'block_categories_all', 'gutenberg_block_boilerplate_custom_category' );
